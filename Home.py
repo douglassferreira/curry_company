@@ -33,7 +33,7 @@ st.markdown(
         - Indicadores semanais de crescimento dos restaurantes
         ### Ask for Help
         - Time de Data Science no Discord
-            -@douglas
+            -@Doug
     """
 
 )
